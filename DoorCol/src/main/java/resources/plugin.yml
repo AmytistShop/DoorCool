@@ -1,0 +1,4 @@
+name: DoorCol
+version: 1.0
+main: me.doorcol.DoorColPlugin
+api-version: 1.21
