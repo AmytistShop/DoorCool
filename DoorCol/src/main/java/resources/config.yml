@@ -1,0 +1,13 @@
+fatigue-level: 0
+
+use-efficiency: true
+
+blocks:
+  - OAK_LOG
+  - BIRCH_LOG
+  - SPRUCE_LOG
+  - JUNGLE_LOG
+  - ACACIA_LOG
+  - DARK_OAK_LOG
+  - MANGROVE_LOG
+  - CHERRY_LOG
